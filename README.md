@@ -23,8 +23,3 @@ The video game industry has a plethora of games, making it overwhelming for game
 - spaCy
 - scikit-learn
 
-## Getting Started
-
-1. Clone this repository: 
-   ```bash
-   git clone <repository-url>
